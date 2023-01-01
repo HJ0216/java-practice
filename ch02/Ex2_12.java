@@ -7,6 +7,7 @@ public class Ex2_12 {
 		//문자 '3'에서 '0'을 빼면, 숫자 3
 		System.out.println('3' - '0' +1);
 		System.out.println(3+1);
+		
 		System.out.println("3"+"1");
 		//문자열3과 문자열1의 결합
 		System.out.println(3 + '0');
