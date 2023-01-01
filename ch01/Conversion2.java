@@ -26,7 +26,7 @@ public class Conversion2 {
 		Market3 mI = new IceCream3();
 		
 		mB.name = "Coke"; // 객체를 생성해서 Market3 리모컨으로 객체 멤버인 name에 "Coke"를 지정
-		mC.price = 1_000;
+		mC.price = 1_000; 
 		mI.bonusPoint = 2.0f;
 		
 //		mB.beverage3(); // Market3에 정의되지 않은 method 사용 불가

@@ -10,7 +10,7 @@ class Market2 {
 
 class Beverage2 extends Market2 {
 	String name = "Bvg";
-	Beverage2(){super(3_000);}
+	Beverage2(){super(3_000);} 
 	public void beverage2() {System.out.println("berverage:)");}
 }
 
