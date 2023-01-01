@@ -14,7 +14,6 @@ public class Ex2_12 {
 		//숫자3에 '0'을 더하면 문자 '3', 문자0은 숫자 48
 		System.out.println((char)(3+'0'));
 		//숫자3을 문자화
-
+		System.out.println(str);
 	}
-
 }
