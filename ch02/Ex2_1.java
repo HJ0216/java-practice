@@ -1,12 +1,16 @@
+
 public class Ex2_1 {
+
 	public static void main(String[] args) {
 		System.out.println("Hello");
 		System.out.println("Hello");
+		System.out.println("Hello");
 		
+		System.out.print("\nHello, Friend");
 		System.out.print("Hello, Friend");
-		System.out.print("Hello,\n Friend");
+		System.out.print("Hello, Friend");
 		
-		System.out.println("\n"+(3+7));
+		System.out.println("\n"+(3+5));
 
 		int a = 20;
 		int b = 23;
@@ -27,4 +31,5 @@ public class Ex2_1 {
 		System.out.printf("x=%d, y=%d, tmp=%d%n", x, y, tmp);
 		
 	}
+
 }
