@@ -1,6 +1,5 @@
 
 public class Ex2_1 {
-
 	public static void main(String[] args) {
 		System.out.println("Hello");
 		System.out.println("Hello");
@@ -12,7 +11,7 @@ public class Ex2_1 {
 		
 		System.out.println("\n"+(3+5));
 
-		int a = 20;
+		int a = 22;
 		int b = 23;
 		System.out.printf("a=%d, b=%d%n", a, b);
 		
