@@ -8,7 +8,7 @@ public class Hello {
 	public void setPw(int pw) {this.pw = pw;}
 		
 	// getter: 다른 class에서 변수의 값을 가져오는 method
-	public String getId() {return id;}
+	public String getId() {return id;} 
 	public int getPw() {return pw;}
 	
 	
