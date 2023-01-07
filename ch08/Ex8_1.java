@@ -1,0 +1,12 @@
+public class Ex8_1 {
+	public static void main(String[] args) {
+		System.out.println(1);
+		try {
+			System.out.println(2);
+			System.out.println(3);
+		} catch(Exception e) {
+			System.out.println(4); // catch에서 안잡히면 넘어감
+		}
+		System.out.println(5);
+	}
+}
